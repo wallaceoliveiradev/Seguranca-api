@@ -1,0 +1,20 @@
+[
+  {
+    "id": 2,
+    "nome": "Óculos de Segurança",
+    "categoria": "Proteção Visual",
+    "ca": "67890"
+  },
+  {
+    "id": 1,
+    "nome": "Capacete de Proteção",
+    "categoria": "Proteção da Cabeça",
+    "ca": "12345"
+  },
+  {
+    "id": 10,
+    "nome": "Óculos de Segurança",
+    "categoria": "Proteção Visual",
+    "ca": "67890"
+  }
+]

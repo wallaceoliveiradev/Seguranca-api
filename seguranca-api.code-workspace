@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../OneDrive - SENAC RIO/Documentos/ESTRUTURAR APLICACOES FRONT-END PARA WEB/Aula1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "seguranca-api"
+	}
+}
